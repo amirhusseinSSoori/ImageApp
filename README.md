@@ -11,5 +11,5 @@
 
 enable vpn  when  you use this sample 
 
-<img src="/screenshots/page.png" width="300" ><img src="/screenshots/footer.png" width="300" >
+<img src="/screenshots/page.jpg" width="300" ><img src="/screenshots/footer.jpg" width="300" >
 
