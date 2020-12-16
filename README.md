@@ -1,11 +1,11 @@
-# [MVVMNewsApp](https://github.com/amirhusseinSSoori/ImageApp)
+# [ImageApp](https://github.com/amirhusseinSSoori/ImageApp)
 
 **NOTE** A simple app use  api with MVVM architecture
 
 **Dependencies**
-1. Retrofit
-2. paging
-3. Kotlin 
+1. Kotlin
+2. paging 3
+3. Retrofit 
 4. Navigation Components
 5. Glide
 
